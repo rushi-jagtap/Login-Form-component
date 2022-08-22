@@ -1,0 +1,31 @@
+.center {
+    width: 250px;
+    height: 250px;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+.heading {
+    padding: 30px 36px 10px 40px;
+}
+
+.textArea {
+    padding: 8px 80px 8px 5px;
+    font-size: 10px;
+}
+
+.btn {
+    padding: 15px 0px;
+}
+
+.mainBtn {
+    padding: 11px 87px;
+    font-size: 10px;
+}
+
+.forgotPass,
+.signup {
+    font-size: 10px;
+}
